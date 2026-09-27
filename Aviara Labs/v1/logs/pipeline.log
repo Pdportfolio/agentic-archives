@@ -1,0 +1,384 @@
+2026-06-28 02:47:00,130 [INFO] CSV initialised: data/leads.csv
+2026-06-28 02:47:00,130 [INFO] ASE Pipeline starting on http://localhost:8000
+2026-06-28 02:47:48,901 [INFO] Pipeline started for: priya@acmelogistics.in
+2026-06-28 02:47:48,916 [INFO] Phase 1 written: LD-50DBA47C
+2026-06-28 02:47:48,917 [INFO] Lead LD-50DBA47C written to CSV
+2026-06-28 02:47:53,360 [INFO] Session email sent to priya@acmelogistics.in
+2026-06-28 02:50:06,542 [INFO] Pipeline started for: priya@acmelogistics.in
+2026-06-28 02:50:06,543 [INFO] Duplicate detected for priya@acmelogistics.in (existing: LD-50DBA47C)
+2026-06-28 02:50:06,544 [INFO] Phase 1 written: LD-BCF77462
+2026-06-28 02:50:06,544 [INFO] Lead LD-BCF77462 written to CSV
+2026-06-28 02:50:11,521 [INFO] Session email sent to priya@acmelogistics.in
+2026-06-28 02:55:45,748 [INFO] ASE Pipeline starting on http://localhost:8000
+2026-06-28 02:57:58,471 [INFO] Test → logging with arrow
+2026-06-28 03:03:12,993 [INFO] Pipeline started for: studysaint17@gmail.com
+2026-06-28 03:03:13,003 [INFO] Phase 1 written: LD-30C7A063
+2026-06-28 03:03:13,003 [INFO] Lead LD-30C7A063 written to CSV
+2026-06-28 03:03:16,711 [INFO] Session email sent to studysaint17@gmail.com
+2026-06-28 03:04:00,727 [INFO] WebSocket connected: LD-30C7A063
+2026-06-28 03:04:00,740 [INFO] Q1: Can you tell me what your business does and which industry you operate in?
+2026-06-28 03:04:00,784 [INFO] Could not import comtypes.gen, trying to create it.
+2026-06-28 03:04:00,785 [INFO] Created comtypes.gen directory: 'D:\Aviara Labs\v1\.venv\Lib\site-packages\comtypes\gen'
+2026-06-28 03:04:00,786 [INFO] Writing __init__.py file: 'D:\Aviara Labs\v1\.venv\Lib\site-packages\comtypes\gen\__init__.py'
+2026-06-28 03:04:00,790 [INFO] Using writeable comtypes cache directory: 'D:\Aviara Labs\v1\.venv\Lib\site-packages\comtypes\gen'
+2026-06-28 03:04:00,816 [INFO] Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-06-28 03:04:00,820 [INFO] # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-06-28 03:04:00,940 [INFO] # Generating comtypes.gen.SpeechLib
+2026-06-28 03:04:00,948 [INFO] Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-06-28 03:04:00,950 [INFO] # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-06-28 03:04:00,959 [INFO] # Generating comtypes.gen.stdole
+2026-06-28 03:04:16,580 [INFO] Loading Whisper model (small)...
+2026-06-28 03:06:45,330 [INFO] Whisper model loaded.
+2026-06-28 03:06:47,882 [INFO] A1: [no response detected]
+2026-06-28 03:06:52,916 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:06:56,969 [INFO] Q2: What are the main challenges or pain points you're currently facing?
+2026-06-28 03:07:11,149 [INFO] A2: [no response detected]
+2026-06-28 03:07:15,836 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:07:19,689 [INFO] Q3: What tools or software are you currently using for these processes?
+2026-06-28 03:07:34,557 [INFO] A3: [no response detected]
+2026-06-28 03:07:37,480 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:07:43,300 [INFO] Q4: What kind of solution are you looking for and what outcome do you expect?
+2026-06-28 03:08:00,769 [INFO] A4: Thank you for watching!
+2026-06-28 03:08:03,838 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:08:07,243 [INFO] Q5: Regarding budget � would you say under 5,000 dollars, between 5 and 20 thousand, or above 20 thousand?
+2026-06-28 03:08:23,015 [INFO] A5: [no response detected]
+2026-06-28 03:08:27,325 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:08:33,249 [INFO] Q6: What is your expected timeline � immediate, within 30 days, 1 to 3 months, or are you still exploring?
+2026-06-28 03:08:48,654 [INFO] A6: [no response detected]
+2026-06-28 03:08:51,040 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:08:55,597 [INFO] Q7: Are you the decision maker for this project, or will others be involved?
+2026-06-28 03:09:09,908 [INFO] A7: [no response detected]
+2026-06-28 03:09:14,767 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:09:21,406 [INFO] Q8: Would you like a specialist from our team to contact you?
+2026-06-28 03:09:31,085 [INFO] A8: [no response detected]
+2026-06-28 03:09:35,351 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:09:46,746 [INFO] Running agents for LD-30C7A063...
+2026-06-28 03:09:46,746 [INFO] Discovery Agent: running...
+2026-06-28 03:09:51,440 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:09:51,440 [INFO] Discovery Agent: done � industry=unknown
+2026-06-28 03:09:51,441 [INFO] Budget Agent: running...
+2026-06-28 03:09:54,222 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:09:54,223 [INFO] Budget Agent: done � category=unknown
+2026-06-28 03:09:54,223 [INFO] Sentiment Agent: running...
+2026-06-28 03:09:56,999 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:09:56,999 [INFO] Sentiment Agent: done � score=35
+2026-06-28 03:09:57,000 [INFO] Analyst Agent: running...
+2026-06-28 03:10:01,682 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:10:01,683 [INFO] Analyst Agent: done � score=25 status=disqualified
+2026-06-28 03:10:01,688 [INFO] Agent analysis complete for LD-30C7A063 � score=25
+2026-06-28 03:20:56,856 [INFO] ASE Pipeline starting on http://localhost:8000
+2026-06-28 03:21:34,004 [INFO] Pipeline started for: studysaint17@gmail.com
+2026-06-28 03:21:34,014 [INFO] Phase 1 written: LD-261D5F0F
+2026-06-28 03:21:34,014 [INFO] Lead LD-261D5F0F written to CSV
+2026-06-28 03:21:38,769 [INFO] Email sent → studysaint17@gmail.com | Your ASE Qualification Session Link
+2026-06-28 03:21:38,769 [INFO] Session email sent to studysaint17@gmail.com
+2026-06-28 03:24:23,061 [INFO] ASE Pipeline starting on http://localhost:8000
+2026-06-28 03:25:46,794 [INFO] Pipeline started for: studysaint17@gmail.com
+2026-06-28 03:25:46,804 [INFO] Phase 1 written: LD-0544A20E
+2026-06-28 03:25:46,805 [INFO] Lead LD-0544A20E written to CSV
+2026-06-28 03:25:51,988 [INFO] Email sent → studysaint17@gmail.com | Your ASE Qualification Session Link
+2026-06-28 03:25:51,988 [INFO] Session email sent to studysaint17@gmail.com
+2026-06-28 03:26:21,254 [INFO] WebSocket connected: LD-0544A20E
+2026-06-28 03:26:21,257 [INFO] Row updated: LD-0544A20E → ['call_status', 'session_start']
+2026-06-28 03:26:21,258 [INFO] Q1: Can you tell me what your business does and which industry you operate in?
+2026-06-28 03:26:21,298 [INFO] Imported existing <module 'comtypes.gen' from 'D:\\Aviara Labs\\v1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-28 03:26:21,299 [INFO] Using writeable comtypes cache directory: 'D:\Aviara Labs\v1\.venv\Lib\site-packages\comtypes\gen'
+2026-06-28 03:26:40,892 [INFO] Loading Whisper model (medium)...
+2026-06-28 03:38:55,352 [INFO] Whisper model loaded.
+2026-06-28 03:39:04,404 [INFO] A1: I am in the business of hardware and software and it is mainly involved in building products.
+2026-06-28 03:39:10,192 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:39:14,856 [INFO] Q2: What are the main challenges or pain points you're currently facing?
+2026-06-28 03:39:50,429 [INFO] A2: challenges and pain points which I am currently facing involve in system design and architecture as well as how to push it into large scale or server scale
+2026-06-28 03:39:55,333 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:40:01,056 [INFO] Q3: What tools or software are you currently using for these processes?
+2026-06-28 03:40:26,640 [INFO] A3: I'm currently using MS team, PowerPoint as well as WhatsApp to solve it.
+2026-06-28 03:40:31,115 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:40:34,571 [INFO] Q4: What kind of solution are you looking for and what outcome do you expect?
+2026-06-28 03:41:21,536 [INFO] A4: I'm looking for an automotive system which can entire undergo end-to-end production at large scale plus my expectations are at least it should be able to handle server side as well as client side factors and all of those customer demands which is expected from the
+2026-06-28 03:41:25,626 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:41:32,059 [INFO] Q5: Regarding budget — would you say under 5,000 dollars, between 5 and 20 thousand, or above 20 thousand?
+2026-06-28 03:41:53,079 [INFO] A5: between 5 and 20 thousand dollars my budget lies in that
+2026-06-28 03:42:00,344 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:42:05,517 [INFO] Q6: What is your expected timeline — immediate, within 30 days, 1 to 3 months, or are you still exploring?
+2026-06-28 03:42:25,882 [INFO] A6: you
+2026-06-28 03:42:31,394 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:42:35,951 [INFO] Q7: Are you the decision maker for this project, or will others be involved?
+2026-06-28 03:42:58,760 [INFO] A7: Yeah, I am the decision maker plus there will be possibility that few others will also be involved in it.
+2026-06-28 03:43:12,525 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:43:18,465 [INFO] Q8: Would you like a specialist from our team to contact you?
+2026-06-28 03:43:33,634 [INFO] A8: Yeah, sure. Immediately I need that.
+2026-06-28 03:43:37,025 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:43:47,055 [INFO] Row updated: LD-0544A20E → ['call_status', 'session_end', 'transcript_path', 'q1_industry', 'q2_pain_points', 'q3_current_tools', 'q4_expected_outcome', 'q5_budget_range', 'q6_timeline', 'q7_decision_maker', 'q8_wants_callback']
+2026-06-28 03:43:47,055 [INFO] Running agents for LD-0544A20E...
+2026-06-28 03:43:47,056 [INFO] Discovery Agent: running...
+2026-06-28 03:43:55,505 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:43:55,505 [INFO] Discovery Agent: done — industry=Hardware and software manufacturing (product development for automotive systems)
+2026-06-28 03:43:55,506 [INFO] Budget Agent: running...
+2026-06-28 03:43:58,266 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:43:58,267 [INFO] Budget Agent: done — category=5k_to_20k
+2026-06-28 03:43:58,268 [INFO] Sentiment Agent: running...
+2026-06-28 03:44:03,709 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:44:03,710 [INFO] Sentiment Agent: done — score=70
+2026-06-28 03:44:03,711 [INFO] Analyst Agent: running...
+2026-06-28 03:44:10,153 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 03:44:10,153 [INFO] Analyst Agent: done — score=70 status=warm
+2026-06-28 03:44:10,155 [INFO] Row updated: LD-0544A20E → ['discovery_summary', 'discovery_flags', 'budget_category', 'budget_confidence', 'sentiment_score', 'sentiment_label', 'lead_score', 'recommended_status', 'key_insights', 'next_action', 'assigned_to']
+2026-06-28 03:44:10,155 [INFO] Agent analysis complete for LD-0544A20E — score=70
+2026-06-28 03:49:29,948 [INFO] CSV initialised: data/leads.csv
+2026-06-28 03:49:29,948 [INFO] ASE Pipeline starting on http://localhost:8000
+2026-06-28 04:03:02,387 [INFO] ASE Pipeline starting on http://localhost:8000
+2026-06-28 04:03:54,466 [INFO] ASE Pipeline starting on http://localhost:8000
+2026-06-28 04:05:59,523 [INFO] Pipeline started for: studysaint17@gmail.com
+2026-06-28 04:05:59,534 [ERROR] VALIDATION_ERROR: invalid phone '+91 789645237'
+2026-06-28 04:05:59,534 [ERROR] VALIDATION_ERROR: bad phone — lead rejected
+2026-06-28 04:08:07,270 [INFO] Pipeline started for: studysaint17@gmail.com
+2026-06-28 04:08:07,276 [INFO] Phase 1 written: LD-595D80D0
+2026-06-28 04:08:07,276 [INFO] Lead LD-595D80D0 written to CSV
+2026-06-28 04:08:10,800 [INFO] Email sent → studysaint17@gmail.com | Your ASE Qualification Session Link
+2026-06-28 04:08:10,801 [INFO] Session email sent to studysaint17@gmail.com
+2026-06-28 04:08:22,756 [INFO] WebSocket connected: LD-595D80D0
+2026-06-28 04:08:22,757 [INFO] Row updated: LD-595D80D0 → ['call_status', 'session_start']
+2026-06-28 04:08:22,759 [INFO] Q1: Can you tell me what your business does and which industry you operate in?
+2026-06-28 04:08:22,833 [INFO] Imported existing <module 'comtypes.gen' from 'D:\\Aviara Labs\\v1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-28 04:08:22,833 [INFO] Using writeable comtypes cache directory: 'D:\Aviara Labs\v1\.venv\Lib\site-packages\comtypes\gen'
+2026-06-28 04:08:45,684 [INFO] Loading Whisper model (medium)...
+2026-06-28 04:08:54,103 [INFO] Whisper model loaded.
+2026-06-28 04:09:02,420 [INFO] A1: My business provides consultancy services and it operates in software field.
+2026-06-28 04:09:06,490 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:09:13,604 [INFO] Q2: What are the main challenges or pain points you're currently facing?
+2026-06-28 04:09:38,954 [INFO] A2: The main problem and challenges which I am currently facing is involving development as well as end-to-end production grade code code.
+2026-06-28 04:09:43,644 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:09:49,778 [INFO] Q3: What tools or software are you currently using for these processes?
+2026-06-28 04:10:12,133 [INFO] A3: I am using Oracle, Mongo TV as well as Power Point.
+2026-06-28 04:10:18,817 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:10:22,919 [INFO] Q4: What kind of solution are you looking for and what outcome do you expect?
+2026-06-28 04:10:46,579 [INFO] A4: I'm expecting end-to-end deployment as well as an excellent overall consultancy experience.
+2026-06-28 04:10:54,850 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:11:00,627 [INFO] Q5: Regarding budget — would you say under 5,000 dollars, between 5 and 20 thousand, or above 20 thousand?
+2026-06-28 04:11:18,414 [INFO] A5: above 20,000.
+2026-06-28 04:11:25,335 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:11:30,450 [INFO] Q6: What is your expected timeline — immediate, within 30 days, 1 to 3 months, or are you still exploring?
+2026-06-28 04:11:49,154 [INFO] A6: I want my solution immediately.
+2026-06-28 04:11:53,783 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:11:58,141 [INFO] Q7: Are you the decision maker for this project, or will others be involved?
+2026-06-28 04:12:14,751 [INFO] A7: I am the decision maker of this project.
+2026-06-28 04:12:19,451 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:12:23,147 [INFO] Q8: Would you like a specialist from our team to contact you?
+2026-06-28 04:12:37,673 [INFO] A8: Yes for sure immediately.
+2026-06-28 04:12:42,868 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:12:53,045 [INFO] Row updated: LD-595D80D0 → ['call_status', 'session_end', 'transcript_path', 'q1_industry', 'q2_pain_points', 'q3_current_tools', 'q4_expected_outcome', 'q5_budget_range', 'q6_timeline', 'q7_decision_maker', 'q8_wants_callback']
+2026-06-28 04:12:53,045 [INFO] Running agents for LD-595D80D0...
+2026-06-28 04:12:53,045 [INFO] Discovery Agent: running...
+2026-06-28 04:12:59,932 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:12:59,933 [INFO] Discovery Agent: done — industry=software development consulting
+2026-06-28 04:12:59,933 [INFO] Budget Agent: running...
+2026-06-28 04:13:02,217 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:13:02,217 [INFO] Budget Agent: done — category=above_20k
+2026-06-28 04:13:02,218 [INFO] Sentiment Agent: running...
+2026-06-28 04:13:04,860 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:13:04,860 [INFO] Sentiment Agent: done — score=70
+2026-06-28 04:13:04,861 [INFO] Analyst Agent: running...
+2026-06-28 04:13:09,694 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:13:09,695 [INFO] Analyst Agent: done — score=92 status=hot
+2026-06-28 04:13:09,696 [INFO] Row updated: LD-595D80D0 → ['discovery_summary', 'discovery_flags', 'budget_category', 'budget_confidence', 'sentiment_score', 'sentiment_label', 'lead_score', 'recommended_status', 'key_insights', 'next_action', 'assigned_to']
+2026-06-28 04:13:09,696 [INFO] Agent analysis complete for LD-595D80D0 — score=92
+2026-06-28 04:13:15,058 [INFO] Email sent → studysaint17@gmail.com | 🔥 Hot Lead Alert — Abhishek from Oracle (Score: 92)
+2026-06-28 04:13:15,058 [INFO] Hot lead alert sent for LD-595D80D0 (score=92)
+2026-06-28 04:16:15,413 [INFO] Pipeline started for: internshipdrive17@gmail.com
+2026-06-28 04:16:15,415 [INFO] Phase 1 written: LD-AD28C0C1
+2026-06-28 04:16:15,415 [INFO] Lead LD-AD28C0C1 written to CSV
+2026-06-28 04:16:18,975 [INFO] Email sent → internshipdrive17@gmail.com | Your ASE Qualification Session Link
+2026-06-28 04:16:18,975 [INFO] Session email sent to internshipdrive17@gmail.com
+2026-06-28 04:18:07,331 [INFO] WebSocket connected: LD-AD28C0C1
+2026-06-28 04:18:07,333 [INFO] Row updated: LD-AD28C0C1 → ['call_status', 'session_start']
+2026-06-28 04:18:07,335 [INFO] Q1: Can you tell me what your business does and which industry you operate in?
+2026-06-28 04:18:33,291 [INFO] A1: I am in the business of consultancy and marketing and my industry is food and beverages.
+2026-06-28 04:18:36,492 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:18:42,470 [INFO] Q2: What are the main challenges or pain points you're currently facing?
+2026-06-28 04:19:04,880 [INFO] A2: Supply chain management as well as stock management and shop floor management.
+2026-06-28 04:19:10,384 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:19:14,539 [INFO] Q3: What tools or software are you currently using for these processes?
+2026-06-28 04:19:31,833 [INFO] A3: No software. I'm doing it manually.
+2026-06-28 04:19:35,551 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:19:40,567 [INFO] Q4: What kind of solution are you looking for and what outcome do you expect?
+2026-06-28 04:20:20,331 [INFO] A4: I expect some kind of software automation which can automate it immediately, which can automate it up to such extent in terms of expectations outcome I am expecting nearly
+2026-06-28 04:20:24,003 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:20:30,184 [INFO] Q5: Regarding budget — would you say under 5,000 dollars, between 5 and 20 thousand, or above 20 thousand?
+2026-06-28 04:21:30,168 [INFO] A5: In regardless of whether to.
+2026-06-28 04:21:32,634 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:21:38,003 [INFO] Q6: What is your expected timeline — immediate, within 30 days, 1 to 3 months, or are you still exploring?
+2026-06-28 04:22:00,525 [INFO] A6: you
+2026-06-28 04:22:03,751 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:22:08,915 [INFO] Q7: Are you the decision maker for this project, or will others be involved?
+2026-06-28 04:22:26,770 [INFO] A7: no I am not the decision maker someone else is in
+2026-06-28 04:22:28,837 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:22:32,388 [INFO] Q8: Would you like a specialist from our team to contact you?
+2026-06-28 04:22:50,271 [INFO] A8: yeah if he or she got time he can contact me
+2026-06-28 04:22:53,513 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:23:03,427 [INFO] Row updated: LD-AD28C0C1 → ['call_status', 'session_end', 'transcript_path', 'q1_industry', 'q2_pain_points', 'q3_current_tools', 'q4_expected_outcome', 'q5_budget_range', 'q6_timeline', 'q7_decision_maker', 'q8_wants_callback']
+2026-06-28 04:23:03,427 [INFO] Running agents for LD-AD28C0C1...
+2026-06-28 04:23:03,428 [INFO] Discovery Agent: running...
+2026-06-28 04:23:10,470 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:23:10,471 [INFO] Discovery Agent: done — industry=Food and Beverage
+2026-06-28 04:23:10,471 [INFO] Budget Agent: running...
+2026-06-28 04:23:13,352 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:23:13,353 [INFO] Budget Agent: done — category=unknown
+2026-06-28 04:23:13,353 [INFO] Sentiment Agent: running...
+2026-06-28 04:23:19,797 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:23:19,798 [INFO] Sentiment Agent: done — score=55
+2026-06-28 04:23:19,798 [INFO] Analyst Agent: running...
+2026-06-28 04:23:25,351 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 04:23:25,351 [INFO] Analyst Agent: done — score=20 status=disqualified
+2026-06-28 04:23:25,353 [INFO] Row updated: LD-AD28C0C1 → ['discovery_summary', 'discovery_flags', 'budget_category', 'budget_confidence', 'sentiment_score', 'sentiment_label', 'lead_score', 'recommended_status', 'key_insights', 'next_action', 'assigned_to']
+2026-06-28 04:23:25,353 [INFO] Agent analysis complete for LD-AD28C0C1 — score=20
+2026-06-28 11:51:39,820 [INFO] ASE Pipeline starting on http://localhost:8000
+2026-06-28 12:10:24,313 [INFO] Pipeline started for: internshipdrive17@gmail.com
+2026-06-28 12:10:24,327 [INFO] Duplicate detected for internshipdrive17@gmail.com (existing: LD-AD28C0C1)
+2026-06-28 12:10:24,328 [INFO] Phase 1 written: LD-A18B9B4A
+2026-06-28 12:10:24,329 [INFO] Lead LD-A18B9B4A written to CSV
+2026-06-28 12:10:52,944 [INFO] Email sent → internshipdrive17@gmail.com | Your ASE Qualification Session Link
+2026-06-28 12:10:52,945 [INFO] Session email sent to internshipdrive17@gmail.com
+2026-06-28 12:11:08,100 [INFO] WebSocket connected: LD-A18B9B4A
+2026-06-28 12:11:08,109 [INFO] Row updated: LD-A18B9B4A → ['call_status', 'session_start']
+2026-06-28 12:11:08,112 [INFO] Q1: Can you tell me what your business does and which industry you operate in?
+2026-06-28 12:11:08,196 [INFO] Imported existing <module 'comtypes.gen' from 'D:\\Aviara Labs\\v1\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-28 12:11:08,197 [INFO] Using writeable comtypes cache directory: 'D:\Aviara Labs\v1\.venv\Lib\site-packages\comtypes\gen'
+2026-06-28 12:11:34,840 [INFO] Loading Whisper model (medium)...
+2026-06-28 12:11:45,903 [INFO] Whisper model loaded.
+2026-06-28 12:11:57,170 [INFO] A1: So I operate in the industries of manufacturing and production and it comes under the business of let's say mass sales and production.
+2026-06-28 12:12:03,912 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:12:08,823 [INFO] Q2: What are the main challenges or pain points you're currently facing?
+2026-06-28 12:12:35,166 [INFO] A2: So, yeah, I'm currently facing the supply chain issues as well as the shop floor management and production related costs.
+2026-06-28 12:12:48,800 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:12:53,267 [INFO] Q3: What tools or software are you currently using for these processes?
+2026-06-28 12:13:23,123 [INFO] A3: Currently I am using MS Office Excel, Docs and basic Postgres SQL and SQLite software to deliver the output.
+2026-06-28 12:13:28,294 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:13:32,094 [INFO] Q4: What kind of solution are you looking for and what outcome do you expect?
+2026-06-28 12:14:10,434 [INFO] A4: So I am looking for a complete and immediate optimization. I need to cut down few bottlenecks and my expectations are it would be smooth transaction within these certain columns and manufacturing unit of this supply chain.
+2026-06-28 12:14:26,630 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:14:34,324 [INFO] Q5: Regarding budget — would you say under 5,000 dollars, between 5 and 20 thousand, or above 20 thousand?
+2026-06-28 12:15:06,078 [INFO] A5: yeah so it is urgent work I am okay with spending any amount but for here I can go with about 20,000 budget is not unlimited
+2026-06-28 12:15:10,711 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:15:14,623 [INFO] Q6: What is your expected timeline — immediate, within 30 days, 1 to 3 months, or are you still exploring?
+2026-06-28 12:15:35,795 [INFO] A6: Immediately, I want it to be rectified immediately.
+2026-06-28 12:15:39,768 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:15:43,124 [INFO] Q7: Are you the decision maker for this project, or will others be involved?
+2026-06-28 12:16:02,119 [INFO] A7: Yeah, so I am the sole decision maker of this project.
+2026-06-28 12:16:06,553 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:16:11,724 [INFO] Q8: Would you like a specialist from our team to contact you?
+2026-06-28 12:16:29,309 [INFO] A8: Yeah, I want a specialist immediately to contact me.
+2026-06-28 12:16:44,877 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:16:56,900 [INFO] Row updated: LD-A18B9B4A → ['call_status', 'session_end', 'transcript_path', 'q1_industry', 'q2_pain_points', 'q3_current_tools', 'q4_expected_outcome', 'q5_budget_range', 'q6_timeline', 'q7_decision_maker', 'q8_wants_callback']
+2026-06-28 12:16:56,900 [INFO] Running agents for LD-A18B9B4A...
+2026-06-28 12:16:56,901 [INFO] Discovery Agent: running...
+2026-06-28 12:17:05,730 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:17:05,731 [INFO] Discovery Agent: done — industry=manufacturing and production
+2026-06-28 12:17:05,731 [INFO] Budget Agent: running...
+2026-06-28 12:17:20,377 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:17:20,378 [INFO] Budget Agent: done — category=5k_to_20k
+2026-06-28 12:17:20,379 [INFO] Sentiment Agent: running...
+2026-06-28 12:17:36,173 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:17:36,173 [INFO] Sentiment Agent: done — score=78
+2026-06-28 12:17:36,174 [INFO] Analyst Agent: running...
+2026-06-28 12:17:47,729 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:17:47,730 [INFO] Analyst Agent: done — score=76 status=warm
+2026-06-28 12:17:47,732 [INFO] Row updated: LD-A18B9B4A → ['discovery_summary', 'discovery_flags', 'budget_category', 'budget_confidence', 'sentiment_score', 'sentiment_label', 'lead_score', 'recommended_status', 'key_insights', 'next_action', 'assigned_to']
+2026-06-28 12:17:47,732 [INFO] Agent analysis complete for LD-A18B9B4A — score=76
+2026-06-28 12:18:15,316 [INFO] Email sent → studysaint17@gmail.com | 🔥 Hot Lead Alert — Prakhar from Amex (Score: 76)
+2026-06-28 12:18:15,316 [INFO] Hot lead alert sent for LD-A18B9B4A (score=76)
+2026-06-28 12:44:47,229 [INFO] Pipeline started for: internshipdrive17@gmail.com
+2026-06-28 12:44:47,233 [INFO] Duplicate detected for internshipdrive17@gmail.com (existing: LD-AD28C0C1)
+2026-06-28 12:44:47,234 [INFO] Phase 1 written: LD-2BD7589A
+2026-06-28 12:44:47,235 [INFO] Lead LD-2BD7589A written to CSV
+2026-06-28 12:45:15,068 [INFO] Email sent → internshipdrive17@gmail.com | Your ASE Qualification Session Link
+2026-06-28 12:45:15,068 [INFO] Session email sent to internshipdrive17@gmail.com
+2026-06-28 12:45:29,933 [INFO] WebSocket connected: LD-2BD7589A
+2026-06-28 12:45:29,936 [INFO] Row updated: LD-2BD7589A → ['call_status', 'session_start']
+2026-06-28 12:45:29,940 [INFO] Q1: Can you tell me what your business does and which industry you operate in?
+2026-06-28 12:45:56,666 [INFO] A1: So, I am working in consultancy as well as the infrastructure development.
+2026-06-28 12:46:30,331 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:46:35,730 [INFO] Q2: What are the main challenges or pain points you're currently facing?
+2026-06-28 12:46:53,130 [INFO] A2: you
+2026-06-28 12:47:08,284 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:47:13,851 [INFO] Q3: What tools or software are you currently using for these processes?
+2026-06-28 12:47:33,268 [INFO] A3: I am using gesture MS Excel to complete this task.
+2026-06-28 12:47:39,520 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:47:43,441 [INFO] Q4: What kind of solution are you looking for and what outcome do you expect?
+2026-06-28 12:48:06,267 [INFO] A4: I don't know about this solution but I am looking for any better options.
+2026-06-28 12:48:18,283 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:48:23,096 [INFO] Q5: Regarding budget — would you say under 5,000 dollars, between 5 and 20 thousand, or above 20 thousand?
+2026-06-28 12:48:46,612 [INFO] A5: My budget is tight so it would be under like $5,000.
+2026-06-28 12:49:11,851 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:49:18,273 [INFO] Q6: What is your expected timeline — immediate, within 30 days, 1 to 3 months, or are you still exploring?
+2026-06-28 12:49:40,520 [INFO] A6: you
+2026-06-28 12:50:09,637 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:50:14,314 [INFO] Q7: Are you the decision maker for this project, or will others be involved?
+2026-06-28 12:50:32,296 [INFO] A7: No others will also be involved in this.
+2026-06-28 12:50:47,359 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:50:52,027 [INFO] Q8: Would you like a specialist from our team to contact you?
+2026-06-28 12:51:12,023 [INFO] A8: It's not urgent but yeah like if it is needed you can contact me and reach out.
+2026-06-28 12:51:40,137 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:51:51,829 [INFO] Row updated: LD-2BD7589A → ['call_status', 'session_end', 'transcript_path', 'q1_industry', 'q2_pain_points', 'q3_current_tools', 'q4_expected_outcome', 'q5_budget_range', 'q6_timeline', 'q7_decision_maker', 'q8_wants_callback']
+2026-06-28 12:51:51,829 [INFO] Running agents for LD-2BD7589A...
+2026-06-28 12:51:51,830 [INFO] Discovery Agent: running...
+2026-06-28 12:52:14,967 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:52:14,973 [INFO] Discovery Agent: done — industry=Consulting and infrastructure development
+2026-06-28 12:52:14,974 [INFO] Budget Agent: running...
+2026-06-28 12:52:27,626 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:52:27,627 [INFO] Budget Agent: done — category=under_5k
+2026-06-28 12:52:27,628 [INFO] Sentiment Agent: running...
+2026-06-28 12:52:31,626 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:52:31,626 [INFO] Sentiment Agent: done — score=35
+2026-06-28 12:52:31,628 [INFO] Analyst Agent: running...
+2026-06-28 12:52:37,641 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 12:52:37,642 [INFO] Analyst Agent: done — score=45 status=cold
+2026-06-28 12:52:37,644 [INFO] Row updated: LD-2BD7589A → ['discovery_summary', 'discovery_flags', 'budget_category', 'budget_confidence', 'sentiment_score', 'sentiment_label', 'lead_score', 'recommended_status', 'key_insights', 'next_action', 'assigned_to']
+2026-06-28 12:52:37,644 [INFO] Agent analysis complete for LD-2BD7589A — score=45
+2026-06-28 13:08:06,382 [INFO] Pipeline started for: internshipdrive17@gmail.com
+2026-06-28 13:08:06,384 [INFO] Duplicate detected for internshipdrive17@gmail.com (existing: LD-AD28C0C1)
+2026-06-28 13:08:06,385 [INFO] Phase 1 written: LD-31E68A6C
+2026-06-28 13:08:06,385 [INFO] Lead LD-31E68A6C written to CSV
+2026-06-28 13:08:31,088 [INFO] Email sent → internshipdrive17@gmail.com | Your ASE Qualification Session Link
+2026-06-28 13:08:31,088 [INFO] Session email sent to internshipdrive17@gmail.com
+2026-06-28 13:09:05,005 [INFO] WebSocket connected: LD-31E68A6C
+2026-06-28 13:09:05,007 [INFO] Row updated: LD-31E68A6C → ['call_status', 'session_start']
+2026-06-28 13:09:05,008 [INFO] Q1: Can you tell me what your business does and which industry you operate in?
+2026-06-28 13:09:27,376 [INFO] A1: Yeah so I operate in journal merchant and furniture related works.
+2026-06-28 13:09:33,362 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:09:38,185 [INFO] Q2: What are the main challenges or pain points you're currently facing?
+2026-06-28 13:09:58,818 [INFO] A2: The main challenges and pain points which are currently facing is managing the large number of employees under me.
+2026-06-28 13:10:03,647 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:10:09,841 [INFO] Q3: What tools or software are you currently using for these processes?
+2026-06-28 13:10:29,290 [INFO] A3: Right now I am simply using SQLite and MS Excel for this process.
+2026-06-28 13:10:32,374 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:10:36,375 [INFO] Q4: What kind of solution are you looking for and what outcome do you expect?
+2026-06-28 13:10:59,611 [INFO] A4: I am not having any kind of information what kind of solution I am expecting. I am just wondering of.
+2026-06-28 13:11:09,808 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:11:14,065 [INFO] Q5: Regarding budget — would you say under 5,000 dollars, between 5 and 20 thousand, or above 20 thousand?
+2026-06-28 13:11:36,222 [INFO] A5: I am currently tight on budget so I will keep like $5,000.
+2026-06-28 13:11:39,447 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:11:45,425 [INFO] Q6: What is your expected timeline — immediate, within 30 days, 1 to 3 months, or are you still exploring?
+2026-06-28 13:12:04,082 [INFO] A6: I am still exploring about it.
+2026-06-28 13:12:07,528 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:12:11,788 [INFO] Q7: Are you the decision maker for this project, or will others be involved?
+2026-06-28 13:12:28,696 [INFO] A7: Others will be involved in the season making process.
+2026-06-28 13:12:32,464 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:12:37,784 [INFO] Q8: Would you like a specialist from our team to contact you?
+2026-06-28 13:12:54,922 [INFO] A8: Yeah, whenever he gets time to reach out to me, I will be fine.
+2026-06-28 13:12:59,618 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:13:10,054 [INFO] Row updated: LD-31E68A6C → ['call_status', 'session_end', 'transcript_path', 'q1_industry', 'q2_pain_points', 'q3_current_tools', 'q4_expected_outcome', 'q5_budget_range', 'q6_timeline', 'q7_decision_maker', 'q8_wants_callback']
+2026-06-28 13:13:10,054 [INFO] Running agents for LD-31E68A6C...
+2026-06-28 13:13:10,055 [INFO] Discovery Agent: running...
+2026-06-28 13:13:16,053 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:13:16,054 [INFO] Discovery Agent: done — industry=Retail – Journal and Furniture Merchandising
+2026-06-28 13:13:16,055 [INFO] Budget Agent: running...
+2026-06-28 13:13:20,650 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:13:20,650 [INFO] Budget Agent: done — category=under_5k
+2026-06-28 13:13:20,651 [INFO] Sentiment Agent: running...
+2026-06-28 13:13:24,018 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:13:24,019 [INFO] Sentiment Agent: done — score=50
+2026-06-28 13:13:24,019 [INFO] Analyst Agent: running...
+2026-06-28 13:13:28,890 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-28 13:13:28,890 [INFO] Analyst Agent: done — score=45 status=cold
+2026-06-28 13:13:28,892 [INFO] Row updated: LD-31E68A6C → ['discovery_summary', 'discovery_flags', 'budget_category', 'budget_confidence', 'sentiment_score', 'sentiment_label', 'lead_score', 'recommended_status', 'key_insights', 'next_action', 'assigned_to']
+2026-06-28 13:13:28,893 [INFO] Agent analysis complete for LD-31E68A6C — score=45

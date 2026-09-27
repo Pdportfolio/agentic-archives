@@ -1,0 +1,476 @@
+2026-06-24T00:19:40+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T00:19:40+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T00:19:40+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample.csv – rows=10, cols=5
+2026-06-24T00:19:40+0530 | INFO | Security validation PASSED
+2026-06-24T00:19:40+0530 | INFO | Running CSVReaderAgent
+2026-06-24T00:19:40+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T00:19:40+0530 | INFO | Detected encoding: ascii
+2026-06-24T00:20:18+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T00:20:18+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T00:20:18+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample.csv – rows=10, cols=5
+2026-06-24T00:20:18+0530 | INFO | Security validation PASSED
+2026-06-24T00:20:18+0530 | INFO | Running CSVReaderAgent
+2026-06-24T00:20:18+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T00:20:18+0530 | INFO | Detected encoding: ascii
+2026-06-24T00:20:18+0530 | ERROR | ydata_profiling is not installed; skipping profile report
+2026-06-24T00:20:18+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T00:20:18+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T00:20:23+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T00:20:23+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T00:20:23+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T00:20:28+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T00:20:29+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T00:20:29+0530 | INFO | Pipeline complete – summary written to outputs\summary.json
+2026-06-24T00:35:26+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T00:35:26+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T00:35:26+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample.csv – rows=10, cols=5
+2026-06-24T00:35:26+0530 | INFO | Security validation PASSED
+2026-06-24T00:35:26+0530 | INFO | Running CSVReaderAgent
+2026-06-24T00:35:26+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T00:35:26+0530 | INFO | Detected encoding: ascii
+2026-06-24T00:35:26+0530 | ERROR | ydata_profiling is not installed; skipping profile report
+2026-06-24T00:35:26+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T00:35:26+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T00:35:27+0530 | ERROR | LLM summary generation failed: you (prakhardwivedipd17) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade (ref: 019328c9-ecb2-4417-9593-39f6cd020f7f) (status code: 429)
+2026-06-24T00:35:27+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T00:35:27+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T00:35:27+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T00:35:28+0530 | ERROR | LLM chart type decision failed: you (prakhardwivedipd17) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade (ref: 6797213f-1b76-47ee-acfb-90c86dc92b41) (status code: 429)
+2026-06-24T00:35:29+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T00:35:29+0530 | INFO | Pipeline complete – summary written to outputs\summary.json
+2026-06-24T01:06:34+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:06:34+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:06:34+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample.csv – rows=10, cols=5
+2026-06-24T01:06:34+0530 | INFO | Security validation PASSED
+2026-06-24T01:06:34+0530 | INFO | Running CSVReaderAgent
+2026-06-24T01:06:34+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:06:34+0530 | INFO | Detected encoding: ascii
+2026-06-24T01:06:34+0530 | ERROR | ydata_profiling is not installed; skipping profile report
+2026-06-24T01:06:34+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T01:06:34+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T01:06:36+0530 | ERROR | LLM summary generation failed: you (prakhardwivedipd17) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade (ref: b41fd43a-42fa-4eb7-80f7-bf9acfbd563c) (status code: 429)
+2026-06-24T01:06:36+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T01:06:36+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T01:06:36+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T01:06:37+0530 | ERROR | LLM chart type decision failed: you (prakhardwivedipd17) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade (ref: fc69a17d-e1b2-424d-a418-256eab96f5a0) (status code: 429)
+2026-06-24T01:06:38+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T01:06:38+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T01:06:38+0530 | INFO | Chart validation attempt 1
+2026-06-24T01:06:38+0530 | INFO | All chart checks passed
+2026-06-24T01:06:38+0530 | INFO | Chart validation PASSED
+2026-06-24T01:06:38+0530 | INFO | Running SummaryAgent
+2026-06-24T01:06:39+0530 | ERROR | Failed to generate summary via Ollama: you (prakhardwivedipd17) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade (ref: 85c58898-2cdc-49fa-8526-e80f1d4d3990) (status code: 429)
+2026-06-24T01:06:39+0530 | INFO | SummaryAgent completed and wrote report to outputs\summary.md
+2026-06-24T01:06:39+0530 | INFO | Pipeline complete – summary written to outputs\summary.json
+2026-06-24T01:08:05+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\blocked_sample.csv
+2026-06-24T01:08:05+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\blocked_sample.csv
+2026-06-24T01:08:05+0530 | ERROR | Security validation BLOCKED for D:\google\business-analyst-agent\data\blocked_sample.csv – reason: String cell contains a blocked pattern
+2026-06-24T01:08:05+0530 | ERROR | Security validation BLOCKED – reason: String cell contains a blocked pattern
+2026-06-24T01:17:24+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:17:24+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:17:24+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample.csv – rows=10, cols=5
+2026-06-24T01:17:24+0530 | INFO | Security validation PASSED
+2026-06-24T01:17:24+0530 | INFO | Running CSVReaderAgent
+2026-06-24T01:17:24+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:17:24+0530 | INFO | Detected encoding: ascii
+2026-06-24T01:17:27+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T01:17:27+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T01:17:27+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T01:17:28+0530 | ERROR | LLM summary generation failed: you (prakhardwivedipd17) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade (ref: 0d2cdad4-74e4-46b4-aa8b-0b1bc4f895f7) (status code: 429)
+2026-06-24T01:17:28+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T01:17:28+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T01:17:28+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T01:17:29+0530 | ERROR | LLM chart type decision failed: you (prakhardwivedipd17) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade (ref: 0fd394d4-b02d-498d-9ad6-75207c203e33) (status code: 429)
+2026-06-24T01:17:30+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T01:17:30+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T01:17:30+0530 | INFO | Chart validation attempt 1
+2026-06-24T01:17:31+0530 | INFO | All chart checks passed
+2026-06-24T01:17:31+0530 | INFO | Chart validation PASSED
+2026-06-24T01:17:31+0530 | INFO | Running SummaryAgent
+2026-06-24T01:17:31+0530 | ERROR | Failed to generate summary via Ollama: you (prakhardwivedipd17) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade (ref: 0296b195-6ad4-43b0-bd7b-1d1d69ecc867) (status code: 429)
+2026-06-24T01:17:31+0530 | INFO | SummaryAgent completed and wrote report to outputs\summary.md
+2026-06-24T01:17:31+0530 | INFO | Pipeline complete – summary written to outputs\summary.json
+2026-06-24T01:27:30+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:27:30+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:27:30+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample.csv – rows=10, cols=5
+2026-06-24T01:27:30+0530 | INFO | Security validation PASSED
+2026-06-24T01:27:30+0530 | INFO | Running CSVReaderAgent
+2026-06-24T01:27:30+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:27:30+0530 | INFO | Detected encoding: ascii
+2026-06-24T01:27:33+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T01:27:33+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T01:27:33+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T01:28:21+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T01:28:21+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T01:28:21+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T01:28:48+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T01:28:49+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T01:28:49+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T01:28:49+0530 | INFO | Chart validation attempt 1
+2026-06-24T01:28:50+0530 | INFO | All chart checks passed
+2026-06-24T01:28:50+0530 | INFO | Chart validation PASSED
+2026-06-24T01:28:50+0530 | INFO | Running SummaryAgent
+2026-06-24T01:30:05+0530 | INFO | SummaryAgent completed and wrote report to outputs\summary.md
+2026-06-24T01:30:05+0530 | INFO | Pipeline complete – summary written to outputs\summary.json
+2026-06-24T01:40:26+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:40:26+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:40:26+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample.csv – rows=10, cols=5
+2026-06-24T01:40:26+0530 | INFO | Security validation PASSED
+2026-06-24T01:40:26+0530 | INFO | Running CSVReaderAgent
+2026-06-24T01:40:26+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T01:40:26+0530 | INFO | Detected encoding: ascii
+2026-06-24T01:40:30+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T01:40:30+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T01:40:30+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T01:41:19+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T01:41:19+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T01:41:19+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T01:41:59+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T01:42:01+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T01:42:01+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T01:42:01+0530 | INFO | Chart validation attempt 1
+2026-06-24T01:42:01+0530 | INFO | All chart checks passed
+2026-06-24T01:42:01+0530 | INFO | Chart validation PASSED
+2026-06-24T01:42:01+0530 | INFO | Running SummaryAgent
+2026-06-24T01:43:07+0530 | INFO | SummaryAgent completed and wrote report to outputs\summary.md
+2026-06-24T01:43:07+0530 | INFO | Pipeline complete – summary written to outputs\summary.json
+2026-06-24T01:58:53+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\blocked_sample.csv
+2026-06-24T01:58:53+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\blocked_sample.csv
+2026-06-24T01:58:53+0530 | ERROR | Security validation BLOCKED for D:\google\business-analyst-agent\data\blocked_sample.csv – reason: Header column 'ignore previous instructions' contains a blocked pattern
+2026-06-24T01:58:53+0530 | ERROR | Security validation BLOCKED – reason: Header column 'ignore previous instructions' contains a blocked pattern
+2026-06-24T02:05:44+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T02:05:44+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T02:05:44+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample_large.csv – rows=100, cols=5
+2026-06-24T02:05:44+0530 | INFO | Security validation PASSED
+2026-06-24T02:05:44+0530 | INFO | Running CSVReaderAgent
+2026-06-24T02:05:44+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T02:05:44+0530 | INFO | Detected encoding: ascii
+2026-06-24T02:06:15+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T02:06:15+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T02:06:15+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample_large.csv – rows=100, cols=5
+2026-06-24T02:06:15+0530 | INFO | Security validation PASSED
+2026-06-24T02:06:15+0530 | INFO | Running CSVReaderAgent
+2026-06-24T02:06:15+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T02:06:15+0530 | INFO | Detected encoding: ascii
+2026-06-24T02:06:22+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T02:06:22+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T02:06:22+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T02:07:11+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T02:07:11+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T02:07:11+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T02:07:36+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T02:07:38+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T02:07:38+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T02:07:38+0530 | INFO | Chart validation attempt 1
+2026-06-24T02:08:23+0530 | ERROR | Chart validation failed on attempt 1
+2026-06-24T02:08:23+0530 | ERROR | Based on the validation failures, here are the specific fix instructions for the ChartAgent. These instructions address incorrect bin counts and misidentified skewness direction.
+
+### Fix Instructions for ChartAgent
+
+Please review and correct the following issues across the histogram visualizations:
+
+**1. Bin Count Correction (Applies to all charts):**
+The bin count across all histograms is incorrect. The agent must adjust the binning to ensure the chart adheres to the expected number of bins.
+
+*   **For chart `col1_histogram.png`:**
+    *   **What is wrong:** The bin count is currently 10.
+    *   **Correct value:** The bin count must be **11**.
+*   **For chart `col2_histogram.png`:**
+    *   **What is wrong:** The bin count is currently 10.
+    *   **Correct value:** The bin count must be **11**.
+*   **For chart `col3_histogram.png`:**
+    *   **What is wrong:** The bin count is currently 10.
+    *   **Correct value:** The bin count must be **11**.
+*   **For chart `col4_histogram.png`:**
+    *   **What is wrong:** The bin count is currently 10.
+    *   **Correct value:** The bin count must be **11**.
+*   **For chart `col5_histogram.png`:**
+    *   **What is wrong:** The bin count is currently 10.
+    *   **Correct value:** The bin count must be **11**.
+
+**2. Skewness Direction Correction (Applies to `col2_histogram.png`):**
+The skewness direction check failed for `col2_histogram.png`. The agent must ensure the visual representation matches the statistical direction.
+
+*   **For chart `col2_histogram.png`:**
+    *   **What is wrong:** The actual skewness value (`"skewness 1.195613"`) does not align with the expected visual representation.
+    *   **Correct state:** The bars should visually represent **"right-heavy bars"** (positive skewness).
+2026-06-24T02:08:23+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T02:08:57+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T02:08:58+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T02:08:58+0530 | INFO | Chart validation attempt 2
+2026-06-24T02:09:40+0530 | ERROR | Chart validation failed on attempt 2
+2026-06-24T02:09:40+0530 | ERROR | Here are the specific fix instructions for the ChartAgent, addressing the validation failures found in the histogram charts.
+
+## Fix Instructions for ChartAgent
+
+The following actions are required to correct the visualization errors in the histogram charts:
+
+### 1. Bin Count Correction (All Charts)
+
+The bin count for all provided histogram charts is incorrect.
+
+*   **Chart:** `col1_histogram.png`
+    *   **Issue:** Bin count mismatch.
+    *   **Fix:** Adjust the binning strategy so that the chart displays **11 bins**.
+*   **Chart:** `col2_histogram.png`
+    *   **Issue:** Bin count mismatch.
+    *   **Fix:** Adjust the binning strategy so that the chart displays **11 bins**.
+*   **Chart:** `col3_histogram.png`
+    *   **Issue:** Bin count mismatch.
+    *   **Fix:** Adjust the binning strategy so that the chart displays **11 bins**.
+*   **Chart:** `col4_histogram.png`
+    *   **Issue:** Bin count mismatch.
+    *   **Fix:** Adjust the binning strategy so that the chart displays **11 bins**.
+*   **Chart:** `col5_histogram.png`
+    *   **Issue:** Bin count mismatch.
+    *   **Fix:** Adjust the binning strategy so that the chart displays **11 bins**.
+
+### 2. Skewness Direction Correction
+
+The direction of the skewness visualization in `col2_histogram.png` is incorrect.
+
+*   **Chart:** `col2_histogram.png`
+    *   **Issue:** Skewness direction mismatch. The actual calculated skewness value (`1.195613`) does not correctly reflect the expected visual representation.
+    *   **Fix:** Ensure the histogram bars are visually represented as **right-heavy bars**, corresponding to a positive skewness (as indicated by the actual value of 1.195613).
+2026-06-24T02:09:40+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T02:10:30+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T02:10:31+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T02:10:31+0530 | INFO | Chart validation attempt 3
+2026-06-24T02:11:21+0530 | ERROR | Chart validation failed on attempt 3
+2026-06-24T02:11:21+0530 | ERROR | Based on the validation failures, here are the specific fix instructions for the ChartAgent.
+
+### Fix Instructions for ChartAgent
+
+**1. Bin Count Correction (All Charts)**
+
+The following charts are failing because the configured number of bins is incorrect. The bin count must be uniformly set to 11 for all histogram charts.
+
+*   **Chart:** `col1_histogram.png`
+    *   **What is wrong:** Incorrect bin count.
+    *   **Correct value:** Set the bin count to **11**.
+*   **Chart:** `col2_histogram.png`
+    *   **What is wrong:** Incorrect bin count.
+    *   **Correct value:** Set the bin count to **11**.
+*   **Chart:** `col3_histogram.png`
+    *   **What is wrong:** Incorrect bin count.
+    *   **Correct value:** Set the bin count to **11**.
+*   **Chart:** `col4_histogram.png`
+    *   **What is wrong:** Incorrect bin count.
+    *   **Correct value:** Set the bin count to **11**.
+*   **Chart:** `col5_histogram.png`
+    *   **What is wrong:** Incorrect bin count.
+    *   **Correct value:** Set the bin count to **11**.
+
+**2. Skewness Direction Correction**
+
+The following chart is incorrectly visualizing the skewness of the distribution. The visualization needs to be adjusted to correctly reflect the data's distribution shape.
+
+*   **Chart:** `col2_histogram.png`
+    *   **What is wrong:** The visual representation of skewness does not match the data distribution. The actual calculated skewness is 1.195613, but the required visual interpretation is "right-heavy bars."
+    *   **Correct value:** Adjust the visualization parameters to ensure the bars reflect a **right-heavy** distribution.
+2026-06-24T02:11:21+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T02:11:50+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T02:11:51+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T02:11:51+0530 | ERROR | Chart validation failed after 3 retries
+2026-06-24T02:11:51+0530 | ERROR | Chart validation failed; SummaryAgent will not run
+2026-06-24T02:31:23+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T02:31:23+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T02:31:23+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample_large.csv – rows=100, cols=5
+2026-06-24T02:31:23+0530 | INFO | Security validation PASSED
+2026-06-24T02:31:23+0530 | INFO | Running CSVReaderAgent
+2026-06-24T02:31:23+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T02:31:23+0530 | INFO | Detected encoding: ascii
+2026-06-24T02:31:29+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T02:31:29+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T02:31:29+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T02:32:25+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T02:32:25+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T02:32:25+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T02:32:57+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T02:32:58+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T02:32:58+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T02:32:58+0530 | INFO | Chart validation attempt 1
+2026-06-24T02:33:31+0530 | ERROR | Chart validation failed on attempt 1
+2026-06-24T02:33:31+0530 | ERROR | **Fix Instructions for ChartAgent:**
+
+For `col1_histogram.png`, `col2_histogram.png`, `col3_histogram.png`, `col4_histogram.png`, and `col5_histogram.png`, the bin count (Sturges rule) is incorrect across all charts. The expected bin count is 11 for all distributions, but the actual count is 10. Please adjust the bin calculation for these histograms to ensure 11 bins are used for each dataset. Additionally, for `col2_histogram.png`, the skewness direction needs correction; the distribution is right-heavy, meaning the left-side bars should be taller to reflect the skewness.
+2026-06-24T02:33:31+0530 | INFO | Regenerating failed charts for columns: ['col1', 'col2', 'col3', 'col4', 'col5']
+2026-06-24T02:33:31+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T02:34:03+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T02:34:05+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T02:34:05+0530 | INFO | Chart validation attempt 2
+2026-06-24T02:34:41+0530 | ERROR | Chart validation failed on attempt 2
+2026-06-24T02:34:41+0530 | ERROR | **Fix Instructions for ChartAgent:**
+
+**For `col1_histogram.png`, `col3_histogram.png`, `col4_histogram.png`, and `col5_histogram.png`:**
+The bin count for these histograms is incorrect. The calculated number of bins should be 11 according to the Sturges rule, but the chart currently displays only 10 bins. Adjust the bin calculation to ensure there are 11 bins to accurately represent the data distribution.
+
+**For `col2_histogram.png`:**
+The skewness direction validation failed. The actual value indicates a right-heavy distribution (skewness of 1.195613), but the expected format requires a description of the bar placement. The chart needs to be adjusted so that the left-side bars are taller to reflect the expected right-heavy distribution.
+2026-06-24T02:34:41+0530 | INFO | Regenerating failed charts for columns: ['col1', 'col2', 'col3', 'col4', 'col5']
+2026-06-24T02:34:41+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T02:35:16+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T02:35:17+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T02:35:17+0530 | INFO | Chart validation attempt 3
+2026-06-24T02:35:50+0530 | ERROR | Chart validation failed on attempt 3
+2026-06-24T02:35:50+0530 | ERROR | **Fix Instructions for ChartAgent:**
+
+**For `col1_histogram.png`, `col2_histogram.png`, `col3_histogram.png`, `col4_histogram.png`, and `col5_histogram.png` (Bin Count):**
+The histogram bin count must be corrected to ensure 11 bins are used for each chart. The current actual count is 10, failing the Sturges rule expectation. The ChartAgent must recalculate the bin boundaries to correctly produce 11 bins for these columns.
+
+**For `col2_histogram.png` (Skewness Direction):**
+The skewness direction labeling is incorrect and must be updated to reflect the actual data distribution. The expected direction is "right-heavy distribution (left-side bars taller)," but the system currently outputs a numerical skewness value of 1.195613. The ChartAgent needs to interpret the calculated skewness value to correctly label the distribution shape as requested.
+2026-06-24T02:35:50+0530 | ERROR | Chart validation failed after 3 retries
+2026-06-24T02:35:50+0530 | ERROR | Chart validation failed; SummaryAgent will not run
+2026-06-24T03:03:29+0530 | ERROR | Input file does not exist: D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:03:52+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:03:52+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:03:52+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample_large.csv – rows=1000, cols=5
+2026-06-24T03:03:52+0530 | INFO | Security validation PASSED
+2026-06-24T03:03:52+0530 | INFO | Running CSVReaderAgent
+2026-06-24T03:03:52+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:03:52+0530 | INFO | Detected encoding: ascii
+2026-06-24T03:03:59+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T03:03:59+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T03:03:59+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T03:04:47+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T03:04:47+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T03:04:47+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T03:05:13+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T03:05:14+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T03:05:14+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T03:05:14+0530 | INFO | Chart validation attempt 1
+2026-06-24T03:05:31+0530 | ERROR | Chart validation failed on attempt 1
+2026-06-24T03:05:31+0530 | ERROR | The histogram charts (`col1_histogram.png` through `col5_histogram.png`) are failing the "bin count (Sturges)" validation because the number of bins is incorrect. For each histogram, you need to adjust the bin calculation to ensure the total number of bins is 11, matching the expected value. Specifically, the actual bin count is 10, and the correct count should be 11 across all specified charts. Recalculate the bin boundaries to accurately represent the data distribution and meet the required Sturges criteria.
+2026-06-24T03:05:31+0530 | INFO | Regenerating failed charts for columns: ['col1', 'col2', 'col3', 'col4', 'col5']
+2026-06-24T03:05:31+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T03:05:58+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T03:05:59+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T03:05:59+0530 | INFO | Chart validation attempt 2
+2026-06-24T03:06:16+0530 | ERROR | Chart validation failed on attempt 2
+2026-06-24T03:06:16+0530 | ERROR | The ChartAgent must adjust the bin count for all specified histogram charts to meet the Sturges rule expectation. For `col1_histogram.png`, `col2_histogram.png`, `col3_histogram.png`, `col4_histogram.png`, and `col5_histogram.png`, the actual bin count is 10, but the expected value according to the Sturges rule is 11. Please recalculate the bin boundaries for these plots to ensure they adhere to the expected count of 11 bins.
+2026-06-24T03:06:16+0530 | INFO | Regenerating failed charts for columns: ['col1', 'col2', 'col3', 'col4', 'col5']
+2026-06-24T03:06:16+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T03:06:47+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T03:06:48+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T03:06:48+0530 | INFO | Chart validation attempt 3
+2026-06-24T03:07:07+0530 | ERROR | Chart validation failed on attempt 3
+2026-06-24T03:07:07+0530 | ERROR | The validation failed across all provided histograms due to an incorrect Sturges bin count. For `col1_histogram.png`, `col2_histogram.png`, `col3_histogram.png`, `col4_histogram.png`, and `col5_histogram.png`, the actual bin count is 10, but the expected count is 11. You must adjust the bin calculation to ensure the histogram uses 11 bins according to the Sturges rule. This requires recalculating the bin edges based on the data range to accurately reflect the expected 11 bins.
+2026-06-24T03:07:07+0530 | ERROR | Chart validation failed after 3 retries
+2026-06-24T03:07:07+0530 | ERROR | Chart validation failed; SummaryAgent will not run
+2026-06-24T03:18:18+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:18:18+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:18:18+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample_large.csv – rows=1000, cols=5
+2026-06-24T03:18:18+0530 | INFO | Security validation PASSED
+2026-06-24T03:18:18+0530 | INFO | Running CSVReaderAgent
+2026-06-24T03:18:18+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:18:18+0530 | INFO | Detected encoding: ascii
+2026-06-24T03:18:25+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T03:18:25+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T03:18:25+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T03:19:08+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T03:19:08+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T03:19:08+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T03:19:34+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T03:19:35+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T03:19:35+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T03:19:35+0530 | INFO | Chart validation attempt 1
+2026-06-24T03:19:36+0530 | ERROR | Chart validation failed with non-regenerable issues; skipping retry
+2026-06-24T03:19:36+0530 | ERROR | Chart validation failed; SummaryAgent will not run
+2026-06-24T03:20:29+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:20:29+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:20:29+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample_large.csv – rows=1000, cols=5
+2026-06-24T03:20:29+0530 | INFO | Security validation PASSED
+2026-06-24T03:20:29+0530 | INFO | Running CSVReaderAgent
+2026-06-24T03:20:29+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:20:29+0530 | INFO | Detected encoding: ascii
+2026-06-24T03:20:35+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T03:20:35+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T03:20:35+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T03:21:20+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T03:21:20+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T03:21:20+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T03:21:48+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T03:21:49+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T03:21:49+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T03:21:49+0530 | INFO | Chart validation attempt 1
+2026-06-24T03:21:50+0530 | ERROR | Chart validation failed with non-regenerable issues; skipping retry
+2026-06-24T03:21:50+0530 | ERROR | Chart validation failed; SummaryAgent will not run
+2026-06-24T03:31:19+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:31:19+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:31:19+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample_large.csv – rows=1000, cols=5
+2026-06-24T03:31:19+0530 | INFO | Security validation PASSED
+2026-06-24T03:31:19+0530 | INFO | Running CSVReaderAgent
+2026-06-24T03:31:19+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:31:19+0530 | INFO | Detected encoding: ascii
+2026-06-24T03:31:26+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T03:31:26+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T03:31:26+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T03:32:16+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T03:32:16+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T03:32:16+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T03:32:42+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T03:32:43+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T03:32:43+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T03:32:43+0530 | INFO | Chart validation attempt 1
+2026-06-24T03:32:43+0530 | INFO | All chart checks passed
+2026-06-24T03:32:43+0530 | INFO | Chart validation PASSED
+2026-06-24T03:32:43+0530 | INFO | Running SummaryAgent
+2026-06-24T03:32:43+0530 | INFO | SummaryAgent: loaded CSV fresh from disk
+2026-06-24T03:32:43+0530 | INFO | SummaryAgent: extracted dataset overview from CSV
+2026-06-24T03:32:43+0530 | INFO | SummaryAgent: found 5 chart(s)
+2026-06-24T03:33:46+0530 | INFO | SummaryAgent: generated summary via gemma4:e2b
+2026-06-24T03:33:47+0530 | INFO | SummaryAgent completed and wrote report to outputs\summary.md
+2026-06-24T03:33:47+0530 | INFO | Pipeline complete – summary written to outputs\summary.json
+2026-06-24T03:36:22+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T03:36:22+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T03:36:22+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample.csv – rows=10, cols=5
+2026-06-24T03:36:22+0530 | INFO | Security validation PASSED
+2026-06-24T03:36:22+0530 | INFO | Running CSVReaderAgent
+2026-06-24T03:36:22+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample.csv
+2026-06-24T03:36:22+0530 | INFO | Detected encoding: ascii
+2026-06-24T03:36:25+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T03:36:25+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T03:36:25+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T03:36:58+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T03:36:58+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T03:36:58+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T03:37:27+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T03:37:28+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T03:37:28+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T03:37:28+0530 | INFO | Chart validation attempt 1
+2026-06-24T03:37:28+0530 | INFO | All chart checks passed
+2026-06-24T03:37:28+0530 | INFO | Chart validation PASSED
+2026-06-24T03:37:28+0530 | INFO | Running SummaryAgent
+2026-06-24T03:37:28+0530 | INFO | SummaryAgent: loaded CSV fresh from disk
+2026-06-24T03:37:28+0530 | INFO | SummaryAgent: extracted dataset overview from CSV
+2026-06-24T03:37:28+0530 | INFO | SummaryAgent: found 5 chart(s)
+2026-06-24T03:38:27+0530 | INFO | SummaryAgent: generated summary via gemma4:e2b
+2026-06-24T03:38:27+0530 | INFO | SummaryAgent completed and wrote report to outputs\summary.md
+2026-06-24T03:38:27+0530 | INFO | Pipeline complete – summary written to outputs\summary.json
+2026-06-24T03:50:10+0530 | INFO | Running SecurityValidatorAgent on D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:50:10+0530 | INFO | Starting security validation for D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:50:10+0530 | INFO | Security validation PASSED for D:\google\business-analyst-agent\data\sample_large.csv – rows=1000, cols=5
+2026-06-24T03:50:10+0530 | INFO | Security validation PASSED
+2026-06-24T03:50:10+0530 | INFO | Running CSVReaderAgent
+2026-06-24T03:50:10+0530 | INFO | CSVReaderAgent: loading D:\google\business-analyst-agent\data\sample_large.csv
+2026-06-24T03:50:10+0530 | INFO | Detected encoding: ascii
+2026-06-24T03:50:17+0530 | INFO | Profiling report written to outputs\profile.html
+2026-06-24T03:50:17+0530 | INFO | Running EDAAnalyzerAgent
+2026-06-24T03:50:17+0530 | INFO | EDAAnalyzerAgent: starting analysis
+2026-06-24T03:50:24+0530 | INFO | EDAAnalyzerAgent: analysis complete
+2026-06-24T03:50:24+0530 | INFO | Running ChartGeneratorAgent
+2026-06-24T03:50:24+0530 | INFO | ChartGeneratorAgent: starting chart generation
+2026-06-24T03:50:29+0530 | ERROR | LLM chart type decision failed: Expecting value: line 1 column 1 (char 0)
+2026-06-24T03:50:30+0530 | INFO | ChartGeneratorAgent: chart generation complete
+2026-06-24T03:50:30+0530 | INFO | Running ChartValidatorAgent
+2026-06-24T03:50:30+0530 | INFO | Chart validation attempt 1
+2026-06-24T03:50:30+0530 | INFO | All chart checks passed
+2026-06-24T03:50:30+0530 | INFO | Chart validation PASSED
+2026-06-24T03:50:30+0530 | INFO | Running SummaryAgent
+2026-06-24T03:50:30+0530 | INFO | SummaryAgent: loaded CSV fresh from disk
+2026-06-24T03:50:30+0530 | INFO | SummaryAgent: extracted dataset overview from CSV
+2026-06-24T03:50:30+0530 | INFO | SummaryAgent: found 5 chart(s)
+2026-06-24T03:50:46+0530 | INFO | SummaryAgent: generated summary via gpt-oss:20b-cloud
+2026-06-24T03:50:46+0530 | INFO | SummaryAgent completed and wrote report to outputs\summary.md
+2026-06-24T03:50:46+0530 | INFO | Pipeline complete – summary written to outputs\summary.json
